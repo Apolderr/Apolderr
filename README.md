@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apolderr
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning all kind of coding
+- 🌱 I’m learning all kind of coding, The best one is C#
 - 🕹️ I'm currently making a game in Unity
 
 <!---
