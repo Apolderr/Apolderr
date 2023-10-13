@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Apolderr
 - 👀 I’m interested in Game Development
-- 🌱 I’m learning all kind of coding, The best one is C#
-- 🕹️ I'm currently making a game in Unity
+- 🕹️ I do made some games but not for public
+- C#, Java, Javascript, Mern stack, SQL
 
 <!---
 Apolderr/Apolderr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
